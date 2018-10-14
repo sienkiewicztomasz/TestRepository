@@ -4,5 +4,6 @@ public class TEST {
 
         System.out.printf("test");
         System.out.println("zaraza");
+        System.out.println("lubasni");
     }
 }
